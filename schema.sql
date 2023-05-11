@@ -17,3 +17,36 @@ create table animals(
 	weight_kg DECIMAL(10,2)
 	
 );
+
+CREATE TABLE owners (
+  id INT GENERATED ALWAYS AS IDENTITY,
+  full_name TEXT,
+  age INTEGER,
+  PRIMARY KEY(id)
+);
+
+CREATE TABLE species (
+  id INT GENERATED ALWAYS AS IDENTITY,
+  name TEXT,
+  PRIMARY KEY(id)
+);
+
+select *from animals
+ALTER TABLE animals
+DROP COLUMN species;
+
+
+select *from animals;
+ALTER TABLE animals
+DROP COLUMN species;
+ALTER TABLE animals
+ADD COLUMN species_id INT,
+ADD CONSTRAINT fk_species_id
+  FOREIGN KEY (species_id)
+  REFERENCES species (id);
+
+ALTER TABLE animals
+ADD COLUMN owner_id  INT,
+ADD CONSTRAINT fk_owner_id 
+  FOREIGN KEY (owner_id )
+  REFERENCES owners (id);
