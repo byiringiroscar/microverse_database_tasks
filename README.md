@@ -115,7 +115,7 @@ Example command:
 Clone this repository to your desired folder by:
 
 ```
-https://github.com/byiringiroscar/microverse_database_tasks
+git clone https://github.com/byiringiroscar/microverse_database_tasks
 ```
 
 <!--
