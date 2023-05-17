@@ -78,6 +78,7 @@ After you're finished please remove all the comments and instructions!
 
 - **Vet_clinic Database**
 - **Animals Table**
+- **Querries Optmization**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,6 +207,7 @@ If you like this project you can buy me cofee here [link](https://www.linkedin.c
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - **I would like to thank microverse for make this thing happen**
+- **I would like to thank My coding Partner**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
