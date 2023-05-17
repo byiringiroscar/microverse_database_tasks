@@ -78,7 +78,7 @@ After you're finished please remove all the comments and instructions!
 
 - **Vet_clinic Database**
 - **Animals Table**
-- **Querries Optmization**
+- **Database performance audit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,6 +171,13 @@ Example command:
 - GitHub: [@githuboscar](https://github.com/byiringiroscar)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/oscar-byiringiro-9baa8313a/)
 
+
+👤 **Lengushuru Charles**
+
+- GitHub: [@lengushuru](https://github.com/lengushuru)
+- Twitter: [@lengushuru](https://twitter.com/lengush)
+- LinkedIn: [Lengushuru Charles](https://linkedin.com/in/lengushuru)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -206,7 +213,7 @@ If you like this project you can buy me cofee here [link](https://www.linkedin.c
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- **I would like to thank microverse for make this thing happen**
+- **We would like to thank microverse for make this thing happen**
 - **I would like to thank My coding Partner**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
