@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Game Boss] <a name="about-project"></a>
+# 📖 [Vet_clinic] <a name="about-project"></a>
 
 **Vet_clinic Databas** is database for storing information about animals, owners, vets, visits, and procedures in a vet clinic..
 ## 🛠 Built With <a name="built-with"></a>
