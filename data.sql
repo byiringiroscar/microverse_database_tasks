@@ -206,3 +206,7 @@ VALUES (
   (SELECT id FROM vets WHERE name = 'William Tatcher'),
   '2021-01-11'
 );
+
+
+UPDATE owners SET age = FLOOR(RANDOM() * (60 - 18 + 1)) + 18 WHERE age IS NULL;
+UPDATE owners SET email = CONCAT('user', FLOOR(RANDOM() * 10000), '@example.com') WHERE email IS NULL;
